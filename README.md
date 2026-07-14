@@ -40,8 +40,10 @@ git clone https://github.com/Pratikshadixit25/FrontendProject
  --Pratiksha Dixit--   
 
  
- Github: https://github.com/Pratikshadixit25/
+ Github Repository Link: https://github.com/Pratikshadixit25/
  
- Linkedin profile: https://www.linkedin.com/in/pratiksha-dixit-3ab19a245/
+ Linkedin profile: https://www.linkedin.com/in/pratiksha-dixit-3ab19a245
+
+ Deployment Link: https://pratikshadixit25.github.io/FrontendProject/
  
 
