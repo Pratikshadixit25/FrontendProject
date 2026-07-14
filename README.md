@@ -16,10 +16,15 @@ A responsive and user-friendly website developed using HTML,CSS
 
 project1/
 |---index.html
+
 |---style.css
+
 |---home.html
+
 |---placement.html
+
 |---registration.html
+
 |---images/
 
 ## Installation
@@ -32,8 +37,11 @@ git clone https://github.com/Pratikshadixit25/FrontendProject
 3. Run the project by opening index.html in your browser.
 
 ## Author
- --Pratiksha Dixit--
+ --Pratiksha Dixit--   
+
+ 
  Github: https://github.com/Pratikshadixit25/
+ 
  Linkedin profile: https://www.linkedin.com/in/pratiksha-dixit-3ab19a245/
  
 
