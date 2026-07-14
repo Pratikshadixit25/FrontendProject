@@ -36,14 +36,16 @@ git clone https://github.com/Pratikshadixit25/FrontendProject
 2. Open project folder.
 3. Run the project by opening index.html in your browser.
 
+## Deployment
+ Deployment Link: https://pratikshadixit25.github.io/FrontendProject/
+
 ## Author
  --Pratiksha Dixit--   
 
- 
- Github Repository Link: https://github.com/Pratikshadixit25/
+ Github Profile Link: https://github.com/Pratikshadixit25/
  
  Linkedin profile: https://www.linkedin.com/in/pratiksha-dixit-3ab19a245
 
- Deployment Link: https://pratikshadixit25.github.io/FrontendProject/
+
  
 
